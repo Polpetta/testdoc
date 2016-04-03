@@ -1,3 +1,0 @@
-# English readme
-
-Something
